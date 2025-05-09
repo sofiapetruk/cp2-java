@@ -10,6 +10,14 @@
 | Sofia Petruk          | 556585 |
 
 
+### Descrição do projeto
+
+    Este projeto consiste na criação de uma API REST integrada a um banco de dados Oracle. 
+    Ele permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) por meio de    
+    endpoints HTTP.
+
+
+
 ### Configuração do proprerties
 
     spring.datasource.url=jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl
@@ -60,12 +68,6 @@
 ###  Spring Initializar
 ![Captura de tela de 2025-05-07 19-24-25.png](src/img/Captura%20de%20tela%20de%202025-05-07%2019-24-25.png)Spring Initializar
 
-
-### Descrição do projeto
-
-    Este projeto consiste na criação de uma API REST integrada a um banco de dados Oracle. 
-    Ele permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) por meio de    
-    endpoints HTTP.
 
 ### Endponits do projeto
 | Método | Endpoint       | Exemplo                       | Descrição                   |
